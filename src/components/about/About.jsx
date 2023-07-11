@@ -35,7 +35,7 @@ const About = () => {
                         FullStack Software Development
                         <br/> 
 
-                        <FaUniversity className='school__icon'/> <a href='https://codecollege.co.za/' target='_blank' rel="noreferrer">Code College</a>
+                        <FaUniversity className='school__icon'/> <a href='https://codecollege.co.za/' target='_blank'>Code College</a>
                       </small>
                   </li>
                   <li><small>
@@ -44,7 +44,7 @@ const About = () => {
                         
                         BSc Computer Science
                         <br/> 
-                        <FaUniversity className='school__icon'/> <a href='https://www.mandela.ac.za/' target='_blank' rel="noreferrer">Nelson Mandela University</a>
+                        <FaUniversity className='school__icon'/> <a href='https://www.mandela.ac.za/' target='_blank'>Nelson Mandela University</a>
                       </small>
                   </li>
                 </ul>
@@ -70,10 +70,10 @@ const About = () => {
             I am very passionate about software development and learning                                         industry related skills & technologies. I am a determined individual; 
             I always work towards a successful outcome when given a task. 
             I have excellent organization, prioritization, and execution skills. 
-            I have demonstrated these skills through my involvement with a coding bootcamp (from <a href="https://codecollege.co.za/" target="_blank" rel="noreferrer">Code College</a>) together with university. I believe the skills I have 
+            I have demonstrated these skills through my involvement with a coding bootcamp (from <a href="https://codecollege.co.za/" target="_blank">Code College</a>) together with university. I believe the skills I have 
             acquired throughout my university years, and the industry related 
-            skills I have obtained so far from <a href="https://codecollege.co.za/" target="_blank" rel="noreferrer">Code College</a> make me an ideal match to Software Development as a career. 
-            Please take a look at my very <a href='https://nkululekorwaxa.github.io/Bootcamp/' target='_blank' rel="noreferrer" className='early__work'>early work</a>.
+            skills I have obtained so far from <a href="https://codecollege.co.za/" target="_blank">Code College</a> make me an ideal match to Software Development as a career. 
+            Please take a look at my very <a href='https://nkululekorwaxa.github.io/Bootcamp/' target='_blank' className='early__work'>early work</a>.
           </small></p>
 
           <a href='#contact' className='btn btn-primary'>Contact Me</a>
