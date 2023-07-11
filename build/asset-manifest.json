@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f1ae1dd.css",
+    "main.js": "/static/js/main.f90580a0.js",
+    "static/media/Rwaxa_Nkululeko_CV.pdf": "/static/media/Rwaxa_Nkululeko_CV.232ee2bc08a3407e4388.pdf",
+    "static/media/movies.png": "/static/media/movies.5b16545f3f6193f24578.png",
+    "static/media/about-me.png": "/static/media/about-me.293777a92cd905a30133.png",
+    "static/media/me.png": "/static/media/me.c5dc22f8f2f39048a2cc.png",
+    "static/media/gallery.png": "/static/media/gallery.208ad5f69ce9dcc48936.png",
+    "static/media/cart.jpg": "/static/media/cart.631501d5c7cc33ed586f.jpg",
+    "static/media/nidia.jfif": "/static/media/nidia.343db59dd7653a944ec1.jfif",
+    "static/media/sheryl.jfif": "/static/media/sheryl.8dc66b6a11930d038bcd.jfif",
+    "static/media/blogpost.jpg": "/static/media/blogpost.d616c4f77861473a2691.jpg",
+    "static/media/mark.webp": "/static/media/mark.454a7b8b7f6cfaadb08f.webp",
+    "index.html": "/index.html",
+    "main.0f1ae1dd.css.map": "/static/css/main.0f1ae1dd.css.map",
+    "main.f90580a0.js.map": "/static/js/main.f90580a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f1ae1dd.css",
+    "static/js/main.f90580a0.js"
+  ]
+}
